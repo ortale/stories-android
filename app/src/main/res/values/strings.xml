@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unrd</string>
+    <string name="view_helper_error_title">Error</string>
+    <string name="view_helper_error_message">An error has occurred</string>
+</resources>
